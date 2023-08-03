@@ -1,0 +1,5 @@
+Fullstack onebit
+
+- organizar listas
+- High Order Functions > funções que recebem e retornam funções. funções que complememtam outras funções. (call-backs)
+
